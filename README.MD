@@ -15,7 +15,7 @@ How to Run: (If pip command not work use pip3 based on your installation)
 
 To Generate Pytest HTML Report
 
-- Clone the repo into a local repo
+- Clone the repo into a local repo: https://github.com/vkpatel8552/PythonDBTestingFramework/tree/master
 - Navigate to the project directory in terminal
 - Execute 'pip install -r requirement.txt'. This will install all the dependencies.
 - Update the 'configurations/config.ini' file with necessary details about the Postgres server.
@@ -37,7 +37,7 @@ To Generate Allure Report
 	- Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 	- Get-ExecutionPolicy should show Remotesigned
 6) Run Test cases by following instruction:
-	- Clone the repo into a local repo
+	- Clone the repo into a local repo: https://github.com/vkpatel8552/PythonDBTestingFramework/tree/master
 	- Navigate to the project directory in terminal
 	- Execute 'pip install -r requirement.txt'. This will install all the dependencies.
 	- Update the 'configurations/config.ini' file with necessary details about the Postgres server.
